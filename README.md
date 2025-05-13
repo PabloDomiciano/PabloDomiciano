@@ -32,7 +32,7 @@
 ### 📲 Conecte-se comigo:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pablohenriquedomiciano/" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-henrique-lopes-domiciano-4b78b1215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Pablo" />
   </a>
   <a href="https://github.com/PabloDomiciano" target="_blank">
